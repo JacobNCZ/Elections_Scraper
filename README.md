@@ -14,7 +14,7 @@ python .\projekt_3.py <odkaz územního celku> <název ukládaného souboru>
 Ukázka projektu:
 
 Výsledky hlasování pro okres Prostějov:
-1.	argument: https://www.volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=12&xnumnuts=7103"
+1.	argument: "https://www.volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=12&xnumnuts=7103"
 2.	argument: "vysledky_prostejov.csv"
 
 Spuštění programu:
@@ -23,9 +23,25 @@ python .\projekt_3.py "https://www.volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=1
 Průběh stahování:
 STAHUJI DATA Z VYBRANÉHO URL: https://www.volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=12&xnumnuts=7103
 UKLÁDÁM DO SOUBORU: vysledky_prostejov.csv
+
+Výběr požadovaných dat:
 0% [██████████████████████████████] 100% | ETA: 00:00:00
-Total time elapsed: 00:00:10
+Total time elapsed: 00:00:01
+
+Výběr požadovaných dat:
+0% [██████████████████████████████] 100% | ETA: 00:00:00
+Total time elapsed: 00:00:01
+
+Příprava dat pro zpracování:
+0% [██████████████████████████████] 100% | ETA: 00:00:00
+Total time elapsed: 00:00:01
+
+Finální zpracování dat:
+0% [██████████████████████████████] 100% | ETA: 00:00:00
+Total time elapsed: 00:00:04
+
 UKONČUJI PROGRAM!
+
 
 Částečný výstup:
 code	location	registered	envelopes	valid	Občanská demokratická strana	Řád národa - Vlastenecká unie	CESTA ODPOVĚDNÉ SPOLEČNOSTI	Česká str.sociálně demokrat.	Radostné Česko	STAROSTOVÉ A NEZÁVISLÍ	Komunistická str.Čech a Moravy	Strana zelených	ROZUMNÍ-stop migraci,diktát.EU	Strana svobodných občanů	Blok proti islam.-Obran.domova	Občanská demokratická aliance	Česká pirátská strana
